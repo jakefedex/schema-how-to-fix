@@ -1,0 +1,86 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to ship a package",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://www.fedex.com/content/dam/fedex/us-united-states/International/images/2019/Q4/b_1382040362_11962333_20170821_SW_2474_187855172_1076241921.jpg"
+  },
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": ""
+  },
+  "totalTime": "",
+  "description": "Follow these steps to learn how to ship a package. You can also visit the pros at any FedEx Office location to get friendly in-person help picking the right shipping box, as well as shipping options based on delivery time and shipping cost.",
+  "tool": [],
+  "supply": [],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Plan your shipment based on destination",
+      "position": 1,
+      "text": "Do you need to ship a package in the US (domestic) or mail something to another country (international)? FedEx follows different guidelines for domestic and international shipments. If you’re shipping domestically, proceed to Step 2 of this guide. If you want to ship a package internationally, please review our International Shipping Guide for instructions that meet international shipping regulations.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Ensure the item can be shipped",
+      "position": 2,
+      "text": "Some items need special care to ship safely, and others can’t be shipped at all. View the Service Guide to learn more about restricted and prohibited items, dangerous goods and more.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Package the item",
+      "position": 3,
+      "text": "Do you need to ship a box, envelope, tube, or mailer? Choosing the right kind of packaging can help protect your shipment and create a better delivery experience. View our packing and shipping supplies to find the best options for your shipment, learn about packing services and get tips on packing items yourself.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Determine which shipping service is best for your needs",
+      "position": 4,
+      "text": "FedEx offers a range of options to accommodate different timelines and budgets. With our rating tool, you can calculate rates based on your preferred delivery speed and destination and then compare which FedEx® shipping service is the best option for you.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Create shipping labels",
+      "position": 5,
+      "text": "You can use FedEx Ship Manager® at fedex.com to create a printable shipping label from your computer. Domestic shipping labels require the sender’s and recipient’s names, addresses and phone numbers, along with the weight and type of package.  If you’d like to create a prepaid label, you can do so by opening FedEx Ship Manager at fedex.com and using the Returns feature. Prepaid labels created via Returns do not have to be used as return labels.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Choose additional delivery options and special services if needed",
+      "position": 6,
+      "text": "FedEx offers many additional services to give shippers and recipients a more convenient shipping experience. These services range from specialty shipping services such as shipping with dry ice, to delivery services such as obtaining a signature as proof of delivery, holding a package at a FedEx location, etc.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Print and attach the FedEx label",
+      "position": 7,
+      "text": "Slide your completed label into a clear plastic pouch and remove the adhesive backing. Then, firmly apply it to the largest flat side of the shipping container. Take care to avoid taping over the label, and don’t cover it up in any way. If the label is too large to fit entirely on one side of the package, make sure the barcode is on one side of the seam and the recipient’s information is on the other.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Get the package to FedEx",
+      "position": 8,
+      "text": "You can drop off your package at a FedEx location or drop box, or you can schedule FedEx to pick up your package from your home or office. You can find your nearest FedEx location or drop box by using the Find a FedEx Location tool.  If you’d rather arrange a pickup, you can schedule one online with your customer account, or call 1.800.GoFedEx.",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
+</script>
